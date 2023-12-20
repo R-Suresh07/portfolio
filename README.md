@@ -70,9 +70,11 @@
 ![image](https://github.com/R-Suresh07/portfolio/assets/73009007/2704d255-37fc-4318-8b4e-19799b311a0a)
 
 ## Work Experience
-**Machine Learning Intern @ Adani Digital Labs (_June 2023 - Present_)
+**Machine Learning Intern @ Adani Digital Labs (_June 2023 - Present_)**
+
 
 ![image](https://github.com/R-Suresh07/portfolio/assets/73009007/62bae3a3-77e5-499e-bf23-d02e589bd1cd)
+
 
 - Developed proof of concepts (PoCs) leveraging Natural Language Processing (NLP) and Computer Vision technologies.
 - Employed GPT-3.5 Turbo via LangChain for content automation of Adani-owned companies, halving the workload of the content team by automating content creation processes.
