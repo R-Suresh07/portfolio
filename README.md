@@ -40,7 +40,7 @@
 ![image](https://github.com/R-Suresh07/portfolio/assets/73009007/5f127051-87a3-437f-80bb-196b4d7496c0)
 ![image](https://github.com/R-Suresh07/portfolio/assets/73009007/239f2c98-a35d-4c2e-a350-f9173d8a8fb9)
 
-### Captioning Tamil Videos and Text![image](https://github.com/R-Suresh07/portfolio/assets/73009007/226291df-924a-4ff3-a2de-fd1ac388a060)
+### Captioning Tamil Videos and Text
 [Github Repo](https://github.com/R-Suresh07/Automatic_Captioning_Tamil_Videos_and_Text)
 
 - This project aims to streamline the process of incorporating Tamil subtitles into videos, thereby improving accessibility.
