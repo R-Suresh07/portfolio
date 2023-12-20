@@ -1,11 +1,6 @@
-# 
-# My Portfolio!
-
-# R.Suresh
+# R.Suresh, Aspiring Data Scientist
 
 ![image](https://github.com/R-Suresh07/portfolio/assets/73009007/cfb5090c-6cd3-4788-ad74-45b844ce1c39)
-
-# Aspiring Data Scientist
 
 ## About Me
 - I am passionate about the potential of data to solve real-world problems by applying machine learning techniques to make informed decisions.
