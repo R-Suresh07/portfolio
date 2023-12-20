@@ -5,13 +5,13 @@
 - Aside from that, I have a personal interest in Chess, playing video games, reading, and blogging.
 
 ## Education
-- B. Tech in Computer Science and Engineering| VIT Bhopal University(_2020 - Present_)
-- Diploma in Data Science | Indian Institute of Technology, Madras(_2020 - 2022_)
-- Diploma in Programming | Indian Institute of Technology, Madras(_2022 - Present_)
+- B. Tech in Computer Science and Engineering| VIT Bhopal University,India (_2020 - Present_)
+- Diploma in Data Science | Indian Institute of Technology, Madras,India (_2020 - 2022_)
+- Diploma in Programming | Indian Institute of Technology, Madras,India (_2022 - Present_)
 
-#### Area of Expertise: Machine Learning, Data Science, NLP, CV, Deep Learning, Statistical Analysis, Cloud Computing and Software Development
-#### Programming Languages: Python, R, C++, Java
-#### Software Skills: SQL, Docker, Tableau, Azure ML, GIT, Bash scripting
+#### **Area of Expertise:** Machine Learning, Data Science, NLP, CV, Deep Learning, Statistical Analysis, Cloud Computing and Software Development
+#### **Programming Languages:** Python, R, C++, Java
+#### **Software Skills:** SQL, Docker, Tableau, Azure ML, GIT, Bash scripting
 
 ## Subject Knowledge
 - During my B. Tech in Computer Science and Engineering (Core) at VIT, I have acquired core skills such as Data Structures and Algorithms, Database Management Systems, Computer Networks, Statistics and Probability, Operating Systems, and many more. 
