@@ -71,6 +71,7 @@
 
 ## Work Experience
 **Machine Learning Intern @ Adani Digital Labs (_June 2023 - Present_)
+
 ![image](https://github.com/R-Suresh07/portfolio/assets/73009007/62bae3a3-77e5-499e-bf23-d02e589bd1cd)
 
 - Developed proof of concepts (PoCs) leveraging Natural Language Processing (NLP) and Computer Vision technologies.
